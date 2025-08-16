@@ -19,6 +19,7 @@
   "homepage": "https://github.com/clurts/docker-hono#readme",
   "description": "",
   "dependencies": {
+    "@hono/node-server": "^1.18.2",
     "hono": "^4.9.2"
   }
 }
